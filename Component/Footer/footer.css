@@ -1,0 +1,13 @@
+.Footer {
+    background-color: #f1f1f1;
+    padding: 10px;
+    border-bottom: 5px solid red;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+.cnt{
+    text-align: center;
+}
