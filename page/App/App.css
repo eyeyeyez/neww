@@ -1,0 +1,20 @@
+.img{
+    background-attachment: fixed;
+    background-repeat: no repeat;
+    opacity: 0.7;
+
+}
+.mid{
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    transition: transform .2s;
+}
+
+.mid:hover {
+    -ms-transform: scale(1.9); /* IE 9 */
+    -webkit-transform: scale(1.9); /* Safari 3-8 */
+    transform: scale(1.9); 
+}
